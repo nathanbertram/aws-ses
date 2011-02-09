@@ -1,3 +1,8 @@
+= Important NOTE
+
+Rails 2.3.x Support has been merged into the original repo where the gem is actively maintained - You can find latest version at:
+https://github.com/drewblas/aws-ses
+
 = AWS::SES
 
 AWS::SES is a Ruby library for Amazon's Simple Email Service's REST API (http://aws.amazon.com/ses).
